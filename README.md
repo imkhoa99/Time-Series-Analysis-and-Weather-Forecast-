@@ -4,7 +4,7 @@
 This project is an experimental Data Science side project using Python to conduct Time Series Analysis and Weather Forecasts.
 
 ## Data Source
-The data have been downloaded from the website http://rp5.ru/. The data are average daily temperatures collected by the weather station 2978 in Helsinki from January 2015 to September 2019
+The data have been downloaded from the website http://rp5.ru/. The data are average daily temperatures collected by the weather station 2978 in Helsinki from January 2015 to September 2019.
 
 ## Tasks
 
